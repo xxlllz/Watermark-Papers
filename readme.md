@@ -8,6 +8,7 @@ Method|Conference|Paper Title and Paper Interpretation|Code|Recommend
 
 
 ## Code Watermark  
+Method|Conference|Paper Title and Paper Interpretation|Code|Recommend  
 -----|----|----|-----|-----  
 |[SWEET](https://arxiv.org/pdf/2305.15060) |ACL 2024|Who Wrote this Code? Watermarking for Code Generation|[SWEET](https://github.com/hongcheki/sweet-watermark)|🌟🌟🌟🌟🌟  
 
