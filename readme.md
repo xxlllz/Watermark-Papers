@@ -10,6 +10,6 @@ Method|Conference|Paper Title and Paper Interpretation|Code|Recommend
 ## Code Watermark  
 Method|Conference|Paper Title and Paper Interpretation|Code|Recommend  
 -----|----|----|-----|-----  
-|[SWEET](https://arxiv.org/pdf/2305.15060) |ACL 2024|Who Wrote this Code? Watermarking for Code Generation|[SWEET](https://github.com/hongcheki/sweet-watermark)|🌟🌟🌟🌟🌟  
-
+|[SWEET](https://arxiv.org/pdf/2305.15060) |ACL2024|Who Wrote this Code? Watermarking for Code Generation|[SWEET](https://github.com/hongcheki/sweet-watermark)|🌟🌟🌟🌟🌟  
+|[CTWL](https://arxiv.org/pdf/2307.15992)|ICLR2024|TOWARDS CODABLE WATERMARKING FOR INJECTING MULTI-BITS INFORMATION TO LLMS|[CTWL](https://github.com/lancopku/codable-watermarking-for-llm)|
 
